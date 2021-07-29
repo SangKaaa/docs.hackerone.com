@@ -1,4 +1,4 @@
-name: Test suite
+name: Test suite.yml
 
 on:
   push:
